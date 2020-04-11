@@ -1,0 +1,3 @@
+12013 | Carlos | Vieira | 06-03-1999 | Portugal
+12014 | Maria | Castro | 03-12-1989 | Espanha
+12044 | Susana | Moreira | 01-01-1987 | Portugal
